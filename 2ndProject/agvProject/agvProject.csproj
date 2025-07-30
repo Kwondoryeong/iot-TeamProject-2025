@@ -8,6 +8,7 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+<<<<<<< Updated upstream
   <ItemGroup>
     <PackageReference Include="CefSharp.Wpf.NETCore" Version="138.0.170" />
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
@@ -19,4 +20,6 @@
     <PackageReference Include="NLog" Version="6.0.2" />
   </ItemGroup>
 
+=======
+>>>>>>> Stashed changes
 </Project>
